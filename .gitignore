@@ -1,2 +1,9 @@
+__pycache__/
+*.egg-info/
 .venv/
-Time_Series_Forecasting_using_Pytorch.ipynb
+build/
+.ipynb_checkpoints/
+*.pth
+.DS_Store
+TODO.md
+TODO.md
