@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-12",
+  "expiry": "2026-12-11",
+  "days": 29.1,
+  "spot": 759.8099975585938,
+  "quotes": 123,
+  "svi": {
+    "a": -0.02744,
+    "b": 0.13228,
+    "rho": 0.40327,
+    "m": 0.16287,
+    "sigma": 0.23475,
+    "rmse": 0.00024,
+    "min_total_variance": 0.00097,
+    "lee_wing_ok": true
+  },
+  "atm_iv": 0.1444,
+  "iv_95_strike": 0.1992,
+  "iv_105_strike": 0.1117,
+  "skew_95_minus_105": 0.0875,
+  "latest_forecasts": {
+    "naive": 0.1011,
+    "vix": 0.1421,
+    "har": 0.1008,
+    "har_vix": 0.1082,
+    "garch_t": 0.1393,
+    "gjr_garch_t": 0.1119
+  }
+}

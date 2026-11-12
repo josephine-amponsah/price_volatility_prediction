@@ -8,7 +8,6 @@
 | HAR-RV + VIX | 8.15 | 0.41 | -0.53 | 0.49 | 0.59 |
 | GARCH(1,1)-t | 8.91 | 0.38 | 1.37 | 0.45 | 0.78 |
 | GJR-GARCH-t | 8.41 | 0.39 | 0.62 | 0.48 | 0.72 |
-| LSTM | 9.16 | 0.47 | -0.68 | 0.35 | 0.16 |
 
 ## Strategies (vol points per unit vega, after costs)
 
